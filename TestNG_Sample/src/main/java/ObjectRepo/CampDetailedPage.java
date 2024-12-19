@@ -29,3 +29,4 @@ public class CampDetailedPage {
 		lookUpImg.click();
 	}
 }
+//Rojalin2
